@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rapha\\OneDrive\\Área de Trabalho\\CursoDotNet\\CursoDotNet.csproj": {}
+    "c:\\Users\\Rapha\\OneDrive\\Área de Trabalho\\CursoDotNet\\CursoDotNet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rapha\\OneDrive\\Área de Trabalho\\CursoDotNet\\CursoDotNet.csproj": {
+    "c:\\Users\\Rapha\\OneDrive\\Área de Trabalho\\CursoDotNet\\CursoDotNet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rapha\\OneDrive\\Área de Trabalho\\CursoDotNet\\CursoDotNet.csproj",
+        "projectUniqueName": "c:\\Users\\Rapha\\OneDrive\\Área de Trabalho\\CursoDotNet\\CursoDotNet.csproj",
         "projectName": "CursoDotNet",
-        "projectPath": "C:\\Users\\Rapha\\OneDrive\\Área de Trabalho\\CursoDotNet\\CursoDotNet.csproj",
+        "projectPath": "c:\\Users\\Rapha\\OneDrive\\Área de Trabalho\\CursoDotNet\\CursoDotNet.csproj",
         "packagesPath": "C:\\Users\\Rapha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rapha\\OneDrive\\Área de Trabalho\\CursoDotNet\\obj\\",
+        "outputPath": "c:\\Users\\Rapha\\OneDrive\\Área de Trabalho\\CursoDotNet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rapha\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -12,3 +12,4 @@ C:\Users\Rapha\OneDrive\Área de Trabalho\CursoDotNet\obj\Debug\net8.0\refint\Cu
 C:\Users\Rapha\OneDrive\Área de Trabalho\CursoDotNet\obj\Debug\net8.0\CursoDotNet.pdb
 C:\Users\Rapha\OneDrive\Área de Trabalho\CursoDotNet\obj\Debug\net8.0\CursoDotNet.genruntimeconfig.cache
 C:\Users\Rapha\OneDrive\Área de Trabalho\CursoDotNet\obj\Debug\net8.0\ref\CursoDotNet.dll
+c:\Users\Rapha\OneDrive\Área de Trabalho\CursoDotNet\obj\Debug\net8.0\CursoDotNet.sourcelink.json
